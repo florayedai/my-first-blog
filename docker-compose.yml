@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  django:
+    image: djangogirls
+    container_name: djangoGirls
+    env_file:
+     - .env
+    ports:
+      - "8123:8000"
+    volumes:
+       - ${SOURCE_DIR}/:/proj
+

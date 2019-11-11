@@ -1,0 +1,8 @@
+.env
+DjangoGirlsNotes.txt
+src/blog/__pycache__
+src/mysite/__pycache__
+src/*.pyc
+src/*~ 
+src/db.sqlite3 
+src/static
