@@ -2,6 +2,7 @@
 DjangoGirlsNotes.txt
 src/blog/__pycache__
 src/mysite/__pycache__
+src/blog/migrations/__pycache__/*.pyc
 src/*.pyc
 src/*~ 
 src/db.sqlite3 
